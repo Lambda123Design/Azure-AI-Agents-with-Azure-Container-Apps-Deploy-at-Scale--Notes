@@ -11,6 +11,18 @@ This Repository contains my Notes of "Azure AI Agents with Azure Container Apps 
 
 **D) Kubernetes v/s Azure Container Apps**
 
+**II) Module 1: Getting Started with Azure Container Apps (ACA)**
+
+**A) Lab: Deploying ACA Environment and Azure Container Registry (ACR) (Hands-On Lab)**
+
+**B) What We Will Be Building: "Architectural Pit-Stop"**
+
+**C) Lab: Deploying Azure AI Foundry and GPT LLM (Hands-On Lab)**
+
+**D) Lab: Building and Pushing Container Image From Docker to ACR (Hands-On Lab)**
+
+**E) Lab: Deploying ACR Image as an Azure Container App (Hands-On Lab)**
+
 
 
 
@@ -129,4 +141,18 @@ Other notable differences include cluster management and scaling. In ACA, the un
 Regarding pricing, ACA charges per CPU core and memory per second in the consumption plan, making it cost-effective for both long-running and sporadic workloads. AKS, on the other hand, charges per node per hour, which requires maintaining at least two nodes, and can cost around $1,000 per month even with minimal configuration.
 
 In summary, while ACA and AKS solve similar container orchestration problems, the choice between them depends on abstraction level, control requirements, workload complexity, and cost considerations. ACA is suitable for serverless, event-driven microservices with minimal infrastructure management, while AKS is appropriate for enterprise-scale applications requiring fine-grained control. This strategic knowledge equips developers and architects to make informed decisions about which service to use for their workloads.
+
+# **II) Module 1: Getting Started with Azure Container Apps (ACA)**
+
+
+
+# **A) Lab: Deploying ACA Environment and Azure Container Registry (ACR) (Hands-On Lab)**
+
+# **B) What We Will Be Building: "Architectural Pit-Stop"**
+
+# **C) Lab: Deploying Azure AI Foundry and GPT LLM (Hands-On Lab)**
+
+# **D) Lab: Building and Pushing Container Image From Docker to ACR (Hands-On Lab)**
+
+# **E) Lab: Deploying ACR Image as an Azure Container App (Hands-On Lab)**
 
