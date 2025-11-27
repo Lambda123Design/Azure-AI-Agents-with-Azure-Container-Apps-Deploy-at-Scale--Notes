@@ -26,6 +26,7 @@ This Repository contains my Notes of "Azure AI Agents with Azure Container Apps 
 
 
 
+
 # **I) Azure Container Apps (ACA) Essentials: ACA-101**
 
 # **A) Evolution of Software Architecture**
@@ -144,9 +145,9 @@ In summary, while ACA and AKS solve similar container orchestration problems, th
 
 # **II) Module 1: Getting Started with Azure Container Apps (ACA)**
 
-
-
 # **A) Lab: Deploying ACA Environment and Azure Container Registry (ACR) (Hands-On Lab)**
+
+
 
 # **B) What We Will Be Building: "Architectural Pit-Stop"**
 
